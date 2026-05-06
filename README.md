@@ -1,6 +1,5 @@
 # ASE/ICSE/FSE/ISSTA 顶会论文 skill 包使用说明
 
-这个文件夹是一套面向软件工程四大顶会及相邻顶级 SE 会议的通用 Codex skill 包。它把原中文核心论文模板里的“主线、证据、边界、终稿检查”迁移到了英文顶会论文写作场景，并吸收了你提供的 Introduction、Conclusion、终稿审阅 prompt。
 
 ## 文件夹结构
 
@@ -139,24 +138,6 @@ $CODEX_HOME/skills/
 - 关键结果和不能改的数据。
 - 当前 LaTeX 主文件路径。
 - 是否处于匿名提交阶段。
-
-## 从中文核心模板迁移时的原则
-
-保留：
-
-- 先定主线，再铺数据。
-- 先给证据，再下结论。
-- 统一术语、单位、图表、公式。
-- 区分实测、计算、推导、日志、归档数据。
-- 投稿前做清单式检查。
-
-修改：
-
-- Word/中文期刊排版改成 LaTeX/会议模板。
-- “工程系统论文”结构改成顶会常见的 RQ/EQ、Method、Evaluation、Threats、Artifact/Data Availability。
-- 中文期刊克制表达改成英文顶会 reviewer-facing expression。
-- 黑白期刊图规范改成 ACM/IEEE 可读、色盲友好、caption 证据导向的图表规范。
-- 空泛未来工作改成 limitations、implications、artifact/data availability 和可核查边界。
 
 ## 注意
 
