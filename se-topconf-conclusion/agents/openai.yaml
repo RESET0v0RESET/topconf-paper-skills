@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE Top-Conference Conclusion"
+  short_description: "Write top-SE conclusions."
+  default_prompt: "Use this skill to draft, rewrite, or diagnose the Conclusion of an ICSE/FSE/ASE/ISSTA-style paper."

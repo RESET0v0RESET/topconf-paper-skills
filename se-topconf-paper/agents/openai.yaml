@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE Top-Conference Paper"
+  short_description: "Plan and revise top-SE papers."
+  default_prompt: "Use this skill to plan, draft, revise, or submission-check an ICSE/FSE/ASE/ISSTA-style software engineering paper."

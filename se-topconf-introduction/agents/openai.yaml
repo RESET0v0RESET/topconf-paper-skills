@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE Top-Conference Introduction"
+  short_description: "Write top-SE introductions."
+  default_prompt: "Use this skill to draft, rewrite, or diagnose the Introduction of an ICSE/FSE/ASE/ISSTA-style paper."

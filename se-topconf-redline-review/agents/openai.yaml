@@ -1,0 +1,4 @@
+interface:
+  display_name: "SE Top-Conference Redline Review"
+  short_description: "Red-line review top-SE LaTeX."
+  default_prompt: "Use this skill to perform a final error-only red-line review of a top-SE LaTeX manuscript."
